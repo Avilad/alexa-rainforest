@@ -1,0 +1,36 @@
+{
+  "name": "rainforest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Duke Energy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Avilad/alexa-rainforest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Avilad/alexa-rainforest/issues"
+  },
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.84d53db3-0605-4c0d-9af7-151fc6e3035f"
+  },
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "jshint": "^2.9.2",
+    "moment": "^2.14.1",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-help": "^1.6.1",
+    "gulp-install": "^0.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.0.2",
+    "node-aws-lambda": "^0.1.7",
+    "run-sequence": "^1.1.5"
+  }
+}

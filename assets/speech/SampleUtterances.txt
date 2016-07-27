@@ -1,0 +1,384 @@
+ConsumptionIntent	my current power consumption right now
+ConsumptionIntent	my power consumption right now
+ConsumptionIntent	my current energy consumption right now
+ConsumptionIntent	my energy consumption right now
+ConsumptionIntent	my current consumption right now
+ConsumptionIntent	my consumption right now
+ConsumptionIntent	my current power usage right now
+ConsumptionIntent	my power usage right now
+ConsumptionIntent	my current energy usage right now
+ConsumptionIntent	my energy usage right now
+ConsumptionIntent	my current usage right now
+ConsumptionIntent	my usage right now
+ConsumptionIntent	my current power use right now
+ConsumptionIntent	my power use right now
+ConsumptionIntent	my current energy use right now
+ConsumptionIntent	my energy use right now
+ConsumptionIntent	my current use right now
+ConsumptionIntent	my use right now
+ConsumptionIntent	my current power consumption at the moment
+ConsumptionIntent	my power consumption at the moment
+ConsumptionIntent	my current energy consumption at the moment
+ConsumptionIntent	my energy consumption at the moment
+ConsumptionIntent	my current consumption at the moment
+ConsumptionIntent	my consumption at the moment
+ConsumptionIntent	my current power usage at the moment
+ConsumptionIntent	my power usage at the moment
+ConsumptionIntent	my current energy usage at the moment
+ConsumptionIntent	my energy usage at the moment
+ConsumptionIntent	my current usage at the moment
+ConsumptionIntent	my usage at the moment
+ConsumptionIntent	my current power use at the moment
+ConsumptionIntent	my power use at the moment
+ConsumptionIntent	my current energy use at the moment
+ConsumptionIntent	my energy use at the moment
+ConsumptionIntent	my current use at the moment
+ConsumptionIntent	my use at the moment
+ConsumptionIntent	my current power consumption currently
+ConsumptionIntent	my power consumption currently
+ConsumptionIntent	my current energy consumption currently
+ConsumptionIntent	my energy consumption currently
+ConsumptionIntent	my current consumption currently
+ConsumptionIntent	my consumption currently
+ConsumptionIntent	my current power usage currently
+ConsumptionIntent	my power usage currently
+ConsumptionIntent	my current energy usage currently
+ConsumptionIntent	my energy usage currently
+ConsumptionIntent	my current usage currently
+ConsumptionIntent	my usage currently
+ConsumptionIntent	my current power use currently
+ConsumptionIntent	my power use currently
+ConsumptionIntent	my current energy use currently
+ConsumptionIntent	my energy use currently
+ConsumptionIntent	my current use currently
+ConsumptionIntent	my use currently
+ConsumptionIntent	my current power consumption
+ConsumptionIntent	my power consumption
+ConsumptionIntent	my current energy consumption
+ConsumptionIntent	my energy consumption
+ConsumptionIntent	my current consumption
+ConsumptionIntent	my consumption
+ConsumptionIntent	my current power usage
+ConsumptionIntent	my power usage
+ConsumptionIntent	my current energy usage
+ConsumptionIntent	my energy usage
+ConsumptionIntent	my current usage
+ConsumptionIntent	my usage
+ConsumptionIntent	my current power use
+ConsumptionIntent	my power use
+ConsumptionIntent	my current energy use
+ConsumptionIntent	my energy use
+ConsumptionIntent	my current use
+ConsumptionIntent	my use
+ConsumptionIntent	what's my current power consumption right now
+ConsumptionIntent	what is my current power consumption right now
+ConsumptionIntent	what's my power consumption right now
+ConsumptionIntent	what is my power consumption right now
+ConsumptionIntent	what's my current energy consumption right now
+ConsumptionIntent	what is my current energy consumption right now
+ConsumptionIntent	what's my energy consumption right now
+ConsumptionIntent	what is my energy consumption right now
+ConsumptionIntent	what's my current consumption right now
+ConsumptionIntent	what is my current consumption right now
+ConsumptionIntent	what's my consumption right now
+ConsumptionIntent	what is my consumption right now
+ConsumptionIntent	what's my current power usage right now
+ConsumptionIntent	what is my current power usage right now
+ConsumptionIntent	what's my power usage right now
+ConsumptionIntent	what is my power usage right now
+ConsumptionIntent	what's my current energy usage right now
+ConsumptionIntent	what is my current energy usage right now
+ConsumptionIntent	what's my energy usage right now
+ConsumptionIntent	what is my energy usage right now
+ConsumptionIntent	what's my current usage right now
+ConsumptionIntent	what is my current usage right now
+ConsumptionIntent	what's my usage right now
+ConsumptionIntent	what is my usage right now
+ConsumptionIntent	what's my current power use right now
+ConsumptionIntent	what is my current power use right now
+ConsumptionIntent	what's my power use right now
+ConsumptionIntent	what is my power use right now
+ConsumptionIntent	what's my current energy use right now
+ConsumptionIntent	what is my current energy use right now
+ConsumptionIntent	what's my energy use right now
+ConsumptionIntent	what is my energy use right now
+ConsumptionIntent	what's my current use right now
+ConsumptionIntent	what is my current use right now
+ConsumptionIntent	what's my use right now
+ConsumptionIntent	what is my use right now
+ConsumptionIntent	what's my current power consumption at the moment
+ConsumptionIntent	what is my current power consumption at the moment
+ConsumptionIntent	what's my power consumption at the moment
+ConsumptionIntent	what is my power consumption at the moment
+ConsumptionIntent	what's my current energy consumption at the moment
+ConsumptionIntent	what is my current energy consumption at the moment
+ConsumptionIntent	what's my energy consumption at the moment
+ConsumptionIntent	what is my energy consumption at the moment
+ConsumptionIntent	what's my current consumption at the moment
+ConsumptionIntent	what is my current consumption at the moment
+ConsumptionIntent	what's my consumption at the moment
+ConsumptionIntent	what is my consumption at the moment
+ConsumptionIntent	what's my current power usage at the moment
+ConsumptionIntent	what is my current power usage at the moment
+ConsumptionIntent	what's my power usage at the moment
+ConsumptionIntent	what is my power usage at the moment
+ConsumptionIntent	what's my current energy usage at the moment
+ConsumptionIntent	what is my current energy usage at the moment
+ConsumptionIntent	what's my energy usage at the moment
+ConsumptionIntent	what is my energy usage at the moment
+ConsumptionIntent	what's my current usage at the moment
+ConsumptionIntent	what is my current usage at the moment
+ConsumptionIntent	what's my usage at the moment
+ConsumptionIntent	what is my usage at the moment
+ConsumptionIntent	what's my current power use at the moment
+ConsumptionIntent	what is my current power use at the moment
+ConsumptionIntent	what's my power use at the moment
+ConsumptionIntent	what is my power use at the moment
+ConsumptionIntent	what's my current energy use at the moment
+ConsumptionIntent	what is my current energy use at the moment
+ConsumptionIntent	what's my energy use at the moment
+ConsumptionIntent	what is my energy use at the moment
+ConsumptionIntent	what's my current use at the moment
+ConsumptionIntent	what is my current use at the moment
+ConsumptionIntent	what's my use at the moment
+ConsumptionIntent	what is my use at the moment
+ConsumptionIntent	what's my current power consumption currently
+ConsumptionIntent	what is my current power consumption currently
+ConsumptionIntent	what's my power consumption currently
+ConsumptionIntent	what is my power consumption currently
+ConsumptionIntent	what's my current energy consumption currently
+ConsumptionIntent	what is my current energy consumption currently
+ConsumptionIntent	what's my energy consumption currently
+ConsumptionIntent	what is my energy consumption currently
+ConsumptionIntent	what's my current consumption currently
+ConsumptionIntent	what is my current consumption currently
+ConsumptionIntent	what's my consumption currently
+ConsumptionIntent	what is my consumption currently
+ConsumptionIntent	what's my current power usage currently
+ConsumptionIntent	what is my current power usage currently
+ConsumptionIntent	what's my power usage currently
+ConsumptionIntent	what is my power usage currently
+ConsumptionIntent	what's my current energy usage currently
+ConsumptionIntent	what is my current energy usage currently
+ConsumptionIntent	what's my energy usage currently
+ConsumptionIntent	what is my energy usage currently
+ConsumptionIntent	what's my current usage currently
+ConsumptionIntent	what is my current usage currently
+ConsumptionIntent	what's my usage currently
+ConsumptionIntent	what is my usage currently
+ConsumptionIntent	what's my current power use currently
+ConsumptionIntent	what is my current power use currently
+ConsumptionIntent	what's my power use currently
+ConsumptionIntent	what is my power use currently
+ConsumptionIntent	what's my current energy use currently
+ConsumptionIntent	what is my current energy use currently
+ConsumptionIntent	what's my energy use currently
+ConsumptionIntent	what is my energy use currently
+ConsumptionIntent	what's my current use currently
+ConsumptionIntent	what is my current use currently
+ConsumptionIntent	what's my use currently
+ConsumptionIntent	what is my use currently
+ConsumptionIntent	what's my current power consumption
+ConsumptionIntent	what is my current power consumption
+ConsumptionIntent	what's my power consumption
+ConsumptionIntent	what is my power consumption
+ConsumptionIntent	what's my current energy consumption
+ConsumptionIntent	what is my current energy consumption
+ConsumptionIntent	what's my energy consumption
+ConsumptionIntent	what is my energy consumption
+ConsumptionIntent	what's my current consumption
+ConsumptionIntent	what is my current consumption
+ConsumptionIntent	what's my consumption
+ConsumptionIntent	what is my consumption
+ConsumptionIntent	what's my current power usage
+ConsumptionIntent	what is my current power usage
+ConsumptionIntent	what's my power usage
+ConsumptionIntent	what is my power usage
+ConsumptionIntent	what's my current energy usage
+ConsumptionIntent	what is my current energy usage
+ConsumptionIntent	what's my energy usage
+ConsumptionIntent	what is my energy usage
+ConsumptionIntent	what's my current usage
+ConsumptionIntent	what is my current usage
+ConsumptionIntent	what's my usage
+ConsumptionIntent	what is my usage
+ConsumptionIntent	what's my current power use
+ConsumptionIntent	what is my current power use
+ConsumptionIntent	what's my power use
+ConsumptionIntent	what is my power use
+ConsumptionIntent	what's my current energy use
+ConsumptionIntent	what is my current energy use
+ConsumptionIntent	what's my energy use
+ConsumptionIntent	what is my energy use
+ConsumptionIntent	what's my current use
+ConsumptionIntent	what is my current use
+ConsumptionIntent	what's my use
+ConsumptionIntent	what is my use
+ConsumptionIntent	what my current power consumption is right now
+ConsumptionIntent	what my power consumption is right now
+ConsumptionIntent	what my current energy consumption is right now
+ConsumptionIntent	what my energy consumption is right now
+ConsumptionIntent	what my current consumption is right now
+ConsumptionIntent	what my consumption is right now
+ConsumptionIntent	what my current power usage is right now
+ConsumptionIntent	what my power usage is right now
+ConsumptionIntent	what my current energy usage is right now
+ConsumptionIntent	what my energy usage is right now
+ConsumptionIntent	what my current usage is right now
+ConsumptionIntent	what my usage is right now
+ConsumptionIntent	what my current power use is right now
+ConsumptionIntent	what my power use is right now
+ConsumptionIntent	what my current energy use is right now
+ConsumptionIntent	what my energy use is right now
+ConsumptionIntent	what my current use is right now
+ConsumptionIntent	what my use is right now
+ConsumptionIntent	what my current power consumption is at the moment
+ConsumptionIntent	what my power consumption is at the moment
+ConsumptionIntent	what my current energy consumption is at the moment
+ConsumptionIntent	what my energy consumption is at the moment
+ConsumptionIntent	what my current consumption is at the moment
+ConsumptionIntent	what my consumption is at the moment
+ConsumptionIntent	what my current power usage is at the moment
+ConsumptionIntent	what my power usage is at the moment
+ConsumptionIntent	what my current energy usage is at the moment
+ConsumptionIntent	what my energy usage is at the moment
+ConsumptionIntent	what my current usage is at the moment
+ConsumptionIntent	what my usage is at the moment
+ConsumptionIntent	what my current power use is at the moment
+ConsumptionIntent	what my power use is at the moment
+ConsumptionIntent	what my current energy use is at the moment
+ConsumptionIntent	what my energy use is at the moment
+ConsumptionIntent	what my current use is at the moment
+ConsumptionIntent	what my use is at the moment
+ConsumptionIntent	what my current power consumption is currently
+ConsumptionIntent	what my power consumption is currently
+ConsumptionIntent	what my current energy consumption is currently
+ConsumptionIntent	what my energy consumption is currently
+ConsumptionIntent	what my current consumption is currently
+ConsumptionIntent	what my consumption is currently
+ConsumptionIntent	what my current power usage is currently
+ConsumptionIntent	what my power usage is currently
+ConsumptionIntent	what my current energy usage is currently
+ConsumptionIntent	what my energy usage is currently
+ConsumptionIntent	what my current usage is currently
+ConsumptionIntent	what my usage is currently
+ConsumptionIntent	what my current power use is currently
+ConsumptionIntent	what my power use is currently
+ConsumptionIntent	what my current energy use is currently
+ConsumptionIntent	what my energy use is currently
+ConsumptionIntent	what my current use is currently
+ConsumptionIntent	what my use is currently
+ConsumptionIntent	what my current power consumption is
+ConsumptionIntent	what my power consumption is
+ConsumptionIntent	what my current energy consumption is
+ConsumptionIntent	what my energy consumption is
+ConsumptionIntent	what my current consumption is
+ConsumptionIntent	what my consumption is
+ConsumptionIntent	what my current power usage is
+ConsumptionIntent	what my power usage is
+ConsumptionIntent	what my current energy usage is
+ConsumptionIntent	what my energy usage is
+ConsumptionIntent	what my current usage is
+ConsumptionIntent	what my usage is
+ConsumptionIntent	what my current power use is
+ConsumptionIntent	what my power use is
+ConsumptionIntent	what my current energy use is
+ConsumptionIntent	what my energy use is
+ConsumptionIntent	what my current use is
+ConsumptionIntent	what my use is
+ConsumptionIntent	how much power am i currently using right now
+ConsumptionIntent	how much energy am i currently using right now
+ConsumptionIntent	how much power i am currently using right now
+ConsumptionIntent	how much energy i am currently using right now
+ConsumptionIntent	how much power i'm currently using right now
+ConsumptionIntent	how much energy i'm currently using right now
+ConsumptionIntent	how much power am i using right now
+ConsumptionIntent	how much energy am i using right now
+ConsumptionIntent	how much power i am using right now
+ConsumptionIntent	how much energy i am using right now
+ConsumptionIntent	how much power i'm using right now
+ConsumptionIntent	how much energy i'm using right now
+ConsumptionIntent	how much power am i currently consuming right now
+ConsumptionIntent	how much energy am i currently consuming right now
+ConsumptionIntent	how much power i am currently consuming right now
+ConsumptionIntent	how much energy i am currently consuming right now
+ConsumptionIntent	how much power i'm currently consuming right now
+ConsumptionIntent	how much energy i'm currently consuming right now
+ConsumptionIntent	how much power am i consuming right now
+ConsumptionIntent	how much energy am i consuming right now
+ConsumptionIntent	how much power i am consuming right now
+ConsumptionIntent	how much energy i am consuming right now
+ConsumptionIntent	how much power i'm consuming right now
+ConsumptionIntent	how much energy i'm consuming right now
+ConsumptionIntent	how much power am i currently using at the moment
+ConsumptionIntent	how much energy am i currently using at the moment
+ConsumptionIntent	how much power i am currently using at the moment
+ConsumptionIntent	how much energy i am currently using at the moment
+ConsumptionIntent	how much power i'm currently using at the moment
+ConsumptionIntent	how much energy i'm currently using at the moment
+ConsumptionIntent	how much power am i using at the moment
+ConsumptionIntent	how much energy am i using at the moment
+ConsumptionIntent	how much power i am using at the moment
+ConsumptionIntent	how much energy i am using at the moment
+ConsumptionIntent	how much power i'm using at the moment
+ConsumptionIntent	how much energy i'm using at the moment
+ConsumptionIntent	how much power am i currently consuming at the moment
+ConsumptionIntent	how much energy am i currently consuming at the moment
+ConsumptionIntent	how much power i am currently consuming at the moment
+ConsumptionIntent	how much energy i am currently consuming at the moment
+ConsumptionIntent	how much power i'm currently consuming at the moment
+ConsumptionIntent	how much energy i'm currently consuming at the moment
+ConsumptionIntent	how much power am i consuming at the moment
+ConsumptionIntent	how much energy am i consuming at the moment
+ConsumptionIntent	how much power i am consuming at the moment
+ConsumptionIntent	how much energy i am consuming at the moment
+ConsumptionIntent	how much power i'm consuming at the moment
+ConsumptionIntent	how much energy i'm consuming at the moment
+ConsumptionIntent	how much power am i currently using currently
+ConsumptionIntent	how much energy am i currently using currently
+ConsumptionIntent	how much power i am currently using currently
+ConsumptionIntent	how much energy i am currently using currently
+ConsumptionIntent	how much power i'm currently using currently
+ConsumptionIntent	how much energy i'm currently using currently
+ConsumptionIntent	how much power am i using currently
+ConsumptionIntent	how much energy am i using currently
+ConsumptionIntent	how much power i am using currently
+ConsumptionIntent	how much energy i am using currently
+ConsumptionIntent	how much power i'm using currently
+ConsumptionIntent	how much energy i'm using currently
+ConsumptionIntent	how much power am i currently consuming currently
+ConsumptionIntent	how much energy am i currently consuming currently
+ConsumptionIntent	how much power i am currently consuming currently
+ConsumptionIntent	how much energy i am currently consuming currently
+ConsumptionIntent	how much power i'm currently consuming currently
+ConsumptionIntent	how much energy i'm currently consuming currently
+ConsumptionIntent	how much power am i consuming currently
+ConsumptionIntent	how much energy am i consuming currently
+ConsumptionIntent	how much power i am consuming currently
+ConsumptionIntent	how much energy i am consuming currently
+ConsumptionIntent	how much power i'm consuming currently
+ConsumptionIntent	how much energy i'm consuming currently
+ConsumptionIntent	how much power am i currently using
+ConsumptionIntent	how much energy am i currently using
+ConsumptionIntent	how much power i am currently using
+ConsumptionIntent	how much energy i am currently using
+ConsumptionIntent	how much power i'm currently using
+ConsumptionIntent	how much energy i'm currently using
+ConsumptionIntent	how much power am i using
+ConsumptionIntent	how much energy am i using
+ConsumptionIntent	how much power i am using
+ConsumptionIntent	how much energy i am using
+ConsumptionIntent	how much power i'm using
+ConsumptionIntent	how much energy i'm using
+ConsumptionIntent	how much power am i currently consuming
+ConsumptionIntent	how much energy am i currently consuming
+ConsumptionIntent	how much power i am currently consuming
+ConsumptionIntent	how much energy i am currently consuming
+ConsumptionIntent	how much power i'm currently consuming
+ConsumptionIntent	how much energy i'm currently consuming
+ConsumptionIntent	how much power am i consuming
+ConsumptionIntent	how much energy am i consuming
+ConsumptionIntent	how much power i am consuming
+ConsumptionIntent	how much energy i am consuming
+ConsumptionIntent	how much power i'm consuming
+ConsumptionIntent	how much energy i'm consuming
