@@ -19,6 +19,7 @@
     "alexa-app": "^2.3.4",
     "jshint": "^2.9.2",
     "moment": "^2.14.1",
+    "moment-timezone": "^0.5.5",
     "request": "^2.74.0"
   },
   "devDependencies": {

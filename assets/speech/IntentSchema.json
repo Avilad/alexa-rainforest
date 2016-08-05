@@ -1,8 +1,17 @@
 {
    "intents": [
       {
-         "intent": "ConsumptionIntent",
+         "intent": "InstantaneousDemandIntent",
          "slots": []
+      },
+      {
+         "intent": "ConsumptionIntent",
+         "slots": [
+            {
+               "name": "Date",
+               "type": "DATE"
+            }
+         ]
       }
    ]
 }

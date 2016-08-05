@@ -1,16 +1,29 @@
 var request = require('request');
 var creds = require('./creds');
 
-module.exports = function (command, notification, callback) {
+module.exports = function (command, params, notification, callback) {
 
-    if (callback == null) {
+    if (arguments.length == 2) {
+        callback = params;
+        params = null;
+    } else if (arguments.length == 3) {
         callback = notification;
-        notification = null;
+        if (typeof params == 'string') {
+            notification = params;
+            params = null;
+        } else {
+            notification = null;
+        }
     }
 
     var postData =
     '<Command>' +
-    '<Name>' + command + '</Name>' +
+    '<Name>' + command + '</Name>';
+
+    for (key in params) {
+        postData += '<' + key + '>' + params[key] + '</' + key + '>';
+    }
+    postData +=
     '<Format>JSON</Format>' +
     '</Command>';
 
@@ -29,6 +42,9 @@ module.exports = function (command, notification, callback) {
 
     request(options, (error, response, body) => {
         if (!error && response.statusCode == 200) {
+            if (body.charAt(0) != '{') { // Bad JSON String
+                body = '{' + body + '}';
+            }
             if (notification)
                 callback(JSON.parse(body)[notification]);
             else
